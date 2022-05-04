@@ -1,5 +1,15 @@
-### Hi there 👋
+## Hi there 👋
 
+I'm Mickaël, 32 years old, web developer from Rennes (Brittany, France).
+
+## Skills
+- HTML, CSS, SASS
+- PHP, JavaScript
+- SQL, Adminer
+- React, Redux
+
+## Contact
+- [@mickael.martin](https://fr.linkedin.com/in/mickael-martin-150002211) on Linkedin
 <!--
 **martin-mickael/martin-mickael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
