@@ -1,12 +1,13 @@
 ## Hi there 👋
 
-I'm Mickaël, 32 years old, web developer from Rennes (Brittany, France).
+
+👱‍♂️ I'm Mickaël, 32 years old, web developer 💻 from Rennes (Brittany, France).
 
 ## Skills
-- HTML, CSS, SASS
-- PHP, JavaScript
-- SQL, Adminer
-- React, Redux
+- 👁️ HTML, CSS, SASS
+- 👨‍💻 PHP, JavaScript
+- 💽 SQL, Adminer
+- ❄️ React, Redux
 
 ## Contact
 - [@mickael.martin](https://fr.linkedin.com/in/mickael-martin-150002211) on Linkedin
