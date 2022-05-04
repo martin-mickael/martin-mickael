@@ -10,6 +10,7 @@ I'm Mickaël, 32 years old, web developer from Rennes (Brittany, France).
 
 ## Contact
 - [@mickael.martin](https://fr.linkedin.com/in/mickael-martin-150002211) on Linkedin
+- [@mickael.martin](https://twitter.com/Mickael_Mrtn) on Twitter
 <!--
 **martin-mickael/martin-mickael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
